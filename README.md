@@ -60,7 +60,7 @@
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/IjadunolaMuyiwa/02-ad-deployment)|
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](https://github.com/IjadunolaMuyiwa/AWS-cloud-security-project/blob/main/AWS_Cloud_Infrastructure_Provisioning_and_Governance_IAM_project%20(3).pdf) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/IjadunolaMuyiwa/04-security-policy-dev/blob/main/ISO%2027001%20NIST%20CSF%20Mapping%20and%20Policy%20Development.pdf) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/IjadunolaMuyiwa/Vulnerability-Assessment-/blob/main/Network%20Vulnerability%20scanning%20using%20Nessus.pdf) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
