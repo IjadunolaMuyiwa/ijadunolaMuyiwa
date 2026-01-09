@@ -63,7 +63,7 @@
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/IjadunolaMuyiwa/Vulnerability-Assessment-/blob/main/Network%20Vulnerability%20scanning%20using%20Nessus.pdf) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
+| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/IjadunolaMuyiwa/Mitre-threat-hunt/blob/main/Threat%20Haunting.pdf) |
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
