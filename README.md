@@ -69,7 +69,7 @@
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-| 14-threat-modelling | identifying and addressing security risks in software applications | [View Repo](#) |
+| 14-threat-modeling | identifying and addressing security risks in software applications | [View Repo](https://github.com/IjadunolaMuyiwa/Threat-Modeling-/blob/main/Threat%20modeling.pdf) |
 | 15-
 
 ---
