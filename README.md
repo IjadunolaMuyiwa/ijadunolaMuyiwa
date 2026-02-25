@@ -67,7 +67,7 @@
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/IjadunolaMuyiwa/phishing-simulation/blob/main/Phishing_Simulation_Report.pdf) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/IjadunolaMuyiwa/phishing-email-forensics/blob/main/Phishing%20Email%20Forensic.pdf) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/IjadunolaMuyiwa/Linux-permissions-audit/blob/main/Linux%20permissions%20audit.pdf) |
-| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
+| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/IjadunolaMuyiwa/SQLI-stimulation-and-DDoS-stimulation) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 | 14-threat-modeling | identifying and addressing security risks in software applications | [View Repo](https://github.com/IjadunolaMuyiwa/Threat-Modeling-/blob/main/Threat%20modeling.pdf) |
 | 15-
